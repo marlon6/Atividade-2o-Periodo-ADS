@@ -1,5 +1,5 @@
 # Atividade-2o-Periodo-ADS
-Atividade da Disciplina WEB
+Atividade da Disciplina WEB 2o período do curso de Análise e Desenvolvimento de Sistema.
 
 Solicitação da professora:
 
